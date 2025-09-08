@@ -1,7 +1,7 @@
 # Hola👋, soy Ian Vivo
 Desarrollador de IA y aplicaciones web, entusiasta de las nuevas tecnologías.<br>Actualmente me estoy enfocando en aprender Deep Learning y Machine Learning.<br>
 # 💫 Sobre mí:
->Desarrollo aplicaciones con Python, JavaScript y PHP<br>Experiencia con frameworks: Angular (JavaScript) y Laravel (PHP)<br>Interesado en Inteligencia Artificial y fan de los videojuegos<br>Aprendiendo nuevas tecnologías y técnicas de IA avanzadas<br>
+Desarrollo aplicaciones con Python, JavaScript y PHP<br>Experiencia con frameworks: Angular (JavaScript) y Laravel (PHP)<br>Interesado en Inteligencia Artificial y fan de los videojuegos<br>Aprendiendo nuevas tecnologías y técnicas de IA avanzadas<br>
 # 🤖 Proyectos destacados
 ### Clasificador de Imágenes Medievales
 Analiza imágenes medievales y determina si contienen armadura, arma o escudo.
