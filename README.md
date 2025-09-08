@@ -4,7 +4,7 @@ Desarrollador de IA y aplicaciones web, entusiasta de las nuevas tecnologías.<b
 Desarrollo aplicaciones con Python, JavaScript y PHP<br>Experiencia con frameworks: Angular (JavaScript) y Laravel (PHP)<br>Interesado en Inteligencia Artificial y fan de los videojuegos<br>Aprendiendo nuevas tecnologías y técnicas de IA avanzadas<br>
 # 🤖 Proyectos destacados
 ### Clasificador de Imágenes Medievales
-Analiza imágenes medievales y determina si contienen armadura, arma o escudo.
+Analiza imágenes medievales y determina si contienen armadura, arma o escudo.<br>
 https://github.com/IanVivo/Analizador-Imagenes-Medievales.git
 
 
