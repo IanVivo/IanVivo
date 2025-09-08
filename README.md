@@ -5,6 +5,7 @@ Desarrollo aplicaciones con Python, JavaScript y PHP<br>Experiencia con framewor
 # 🤖 Proyectos destacados
 ### Clasificador de Imágenes Medievales
 Analiza imágenes medievales y determina si contienen armadura, arma o escudo.
+
 https://github.com/IanVivo/Analizador-Imagenes-Medievales.git
 
 
